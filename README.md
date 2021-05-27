@@ -11,6 +11,9 @@
 [실습용 AASX 파일](https://github.com/kosmo-nestfield/Education/blob/main/%EC%8B%A4%EC%8A%B5%EC%9A%A9%20AASX%20%ED%8C%8C%EC%9D%BC.zip)  
 위 파일은 AAS 작성 교육 실습 시 사용되는 AASX 파일이며, AASX Package Explorer 프로그램을 이용하여 편집 가능합니다.  
   
+[실습 동영상](https://github.com/kosmo-nestfield/Education/tree/main/%EB%8F%99%EC%98%81%EC%83%81)  
+AAS 작성부터 클라우드 데이터 모니터링까지의 과정이 담긴 동영상입니다.  
+  
 ## 그 외 교육자료 (1차시 ~ 3차시) 또한 첨부되어있으니 참고부탁드립니다.  
 [1차시. AAS 작성 검증 / 변환 활용](https://github.com/kosmo-nestfield/Education/blob/main/%5B%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C%201%EC%B0%A8%EC%8B%9C%5D%20Asset%20Administration%20Shell%20%20%EC%9E%91%EC%84%B1-%EA%B2%80%EC%A6%9D%20%EB%B0%8F%20%EB%B3%80%ED%99%98-%ED%99%9C%EC%9A%A9.pdf)  
 [2차시. 엣지 게이트웨이 데이터 수집 솔루션](https://github.com/kosmo-nestfield/Education/blob/main/%5B%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C%202%EC%B0%A8%EC%8B%9C%5D%20%EC%97%A3%EC%A7%80%20%EA%B2%8C%EC%9D%B4%ED%8A%B8%EC%9B%A8%EC%9D%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91%20%EC%86%94%EB%A3%A8%EC%85%98.pdf)  
