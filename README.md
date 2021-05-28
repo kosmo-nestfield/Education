@@ -1,4 +1,4 @@
-### 실습 강의 영상은 아래 링크를 통해 제공됩니다.
+### 실습 강의 녹화 영상은 아래 링크를 통해 제공됩니다.
 > [실습 교육 영상 - 구글 드라이브 링크](https://drive.google.com/drive/folders/1koFEYORpfzLd7ik5fJV2e3QTsVruPUIk)  
   
 # AAS 기반 데이터 수집 저장 솔루션 교육실습 자료  
