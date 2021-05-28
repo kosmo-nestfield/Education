@@ -2,6 +2,9 @@
 ### 2021.05.27 - 2021.05.31  
 본 문서는 5월 27일 ~ 5월 31일 동안 진행될 AAS 기반 데이터 수집 저장 솔루션 교육 실습에 필요한 자료에 대하여 설명합니다.  
 
+# 실습 강의 영상은 아래 링크를 통해 제공됩니다.
+[실습 교육 영상 - 구글 드라이브 링크](https://drive.google.com/drive/folders/1koFEYORpfzLd7ik5fJV2e3QTsVruPUIk)  
+
 [AAS 검증.zip](https://github.com/kosmo-nestfield/Education/blob/main/AAS%20%EA%B2%80%EC%A6%9D.zip)  
 위 파일은 AAS 작성 교육 시 사용되며, AAS가 스키마에 맞게 작성되었는지 검증하는 툴입니다.
 
