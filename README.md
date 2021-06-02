@@ -14,8 +14,19 @@
 > [실습용 AASX 파일](https://github.com/kosmo-nestfield/Education/blob/main/%EC%8B%A4%EC%8A%B5%EC%9A%A9%20AASX%20%ED%8C%8C%EC%9D%BC.zip)  
 > 위 파일은 AAS 작성 교육 실습 시 사용되는 AASX 파일이며, AASX Package Explorer 프로그램을 이용하여 편집 가능합니다.  
 >  
-> [실습 동영상](https://github.com/kosmo-nestfield/Education/tree/main/%EB%8F%99%EC%98%81%EC%83%81)  
+> [AAS 작성 실습 동영상](https://github.com/kosmo-nestfield/Education/tree/main/%EB%8F%99%EC%98%81%EC%83%81)  
 >AAS 작성부터 클라우드 데이터 모니터링까지의 과정이 담긴 동영상입니다.  
+  
+# 교육 영상 링크(Youtube)
+> **\[교육과정 1-1\]**  [AAS 기반의 Raw Data 수집 저장의 필요성 - KOSMO 박한구 단장](https://youtu.be/pwMaS-CFZd0?list=PLcFqBGHqcUDpgyH10GI_kiAtqLme88_Nh)  
+> **\[교육과정 1-2\]**  [Industrie 4 0 및 AAS 표준기술 글로벌 동향 소개 - 홍승호 교수](https://youtu.be/dgLMA78JNhk?list=PLcFqBGHqcUDpgyH10GI_kiAtqLme88_Nh)  
+> **\[교육과정 1-3\]**  [중소기업을 위한 AAS기반 데이터 수집 저장 프로젝트 소개 - 김유철 대표](https://youtu.be/FpMU1P18974?list=PLcFqBGHqcUDpgyH10GI_kiAtqLme88_Nh)  
+> **\[교육과정 1-4\]**  [Asset Administration Shell 작성검증 및 데이터 변환 활용 - 송원석 연구소장](https://youtu.be/_HFhzw-QqH4?list=PLcFqBGHqcUDpgyH10GI_kiAtqLme88_Nh)  
+> **\[교육과정 1-5\]**  [스마트공장 국가표준과 업종별 USE CASE 실증 최동학 코디네이터](https://youtu.be/yZ5VWKD4EPg?list=PLcFqBGHqcUDpgyH10GI_kiAtqLme88_Nh)  
+> **\[교육과정 1-6\]**  [국내 시범공장 AAS 모델구현 및 적용사례 소개 - 이주연 수석연구원](https://youtu.be/L-xK4pRFwqs?list=PLcFqBGHqcUDpgyH10GI_kiAtqLme88_Nh)  
+> **\[교육과정 1-7\]**  [Edge Gateway 플랫폼 구성, 설치 및 운영 개요 - 윤종진이사](https://youtu.be/kyZORpNTjOk?list=PLcFqBGHqcUDpgyH10GI_kiAtqLme88_Nh)  
+> **\[교육과정 1-8\]**  [클라우드 플랫폼의 구성 및 데이터 활용 - 반재원 대표](https://youtu.be/e49B7-i040U?list=PLcFqBGHqcUDpgyH10GI_kiAtqLme88_Nh)  
+> **\[참고\]**          [Industry 4.0과 Asset Administration Shell](https://youtu.be/tw2CCmZVGvE)  
   
 ## 그 외 교육자료 (1차시 ~ 3차시) 또한 첨부되어있으니 참고부탁드립니다.  
 > [1차시. AAS 작성 검증 / 변환 활용](https://github.com/kosmo-nestfield/Education/blob/main/%5B%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C%201%EC%B0%A8%EC%8B%9C%5D%20Asset%20Administration%20Shell%20%20%EC%9E%91%EC%84%B1-%EA%B2%80%EC%A6%9D%20%EB%B0%8F%20%EB%B3%80%ED%99%98-%ED%99%9C%EC%9A%A9.pdf)  
