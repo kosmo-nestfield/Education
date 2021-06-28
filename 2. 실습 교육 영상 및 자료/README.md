@@ -3,7 +3,7 @@
 > 본 문서는 5월 27일 ~ 5월 31일 동안 진행될 AAS 기반 데이터 수집 저장 솔루션 교육 실습에 필요한 자료에 대하여 설명합니다.  
 
 ### 실습 강의 녹화 영상은 아래 링크를 통해 제공됩니다.
-> [실습 교육 영상 - 구글 드라이브 링크](https://drive.google.com/drive/folders/1koFEYORpfzLd7ik5fJV2e3QTsVruPUIk)  
+> [실습 교육 영상 - 구글 드라이브 링크](https://drive.google.com/drive/folders/1koFEYORpfzLd7ik5fJV2e3QTsVruPUIk?usp=sharing)  
   
 ### 실습 교육 발표 자료 ###
 > [1차시. AAS 작성 검증 / 변환 활용](https://github.com/kosmo-nestfield/Education/blob/main/2.%20%EC%8B%A4%EC%8A%B5%20%EA%B5%90%EC%9C%A1%20%EC%98%81%EC%83%81%20%EB%B0%8F%20%EC%9E%90%EB%A3%8C/%5B%EA%B5%90%EC%9C%A1%EC%9E%90%EB%A3%8C%201%EC%B0%A8%EC%8B%9C%5D%20Asset%20Administration%20Shell%20%20%EC%9E%91%EC%84%B1-%EA%B2%80%EC%A6%9D%20%EB%B0%8F%20%EB%B3%80%ED%99%98-%ED%99%9C%EC%9A%A9.pdf)  
