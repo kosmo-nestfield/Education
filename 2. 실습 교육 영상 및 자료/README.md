@@ -18,5 +18,5 @@
 > [실습용 AASX 파일](https://github.com/kosmo-nestfield/Education/blob/main/2.%20%EC%8B%A4%EC%8A%B5%20%EA%B5%90%EC%9C%A1%20%EC%98%81%EC%83%81%20%EB%B0%8F%20%EC%9E%90%EB%A3%8C/%EC%8B%A4%EC%8A%B5%20%EC%B0%B8%EA%B3%A0%20%EC%9E%90%EB%A3%8C/%EC%8B%A4%EC%8A%B5%EC%9A%A9%20AASX%20%ED%8C%8C%EC%9D%BC.zip)  
 > 위 파일은 AAS 작성 교육 실습 시 사용되는 AASX 파일이며, AASX Package Explorer 프로그램을 이용하여 편집 가능합니다.  
 > [AAS 작성 실습 동영상](https://github.com/kosmo-nestfield/Education/tree/main/2.%20%EC%8B%A4%EC%8A%B5%20%EA%B5%90%EC%9C%A1%20%EC%98%81%EC%83%81%20%EB%B0%8F%20%EC%9E%90%EB%A3%8C/AAS%20%EC%9E%91%EC%84%B1%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9%20%EA%B0%95%EC%9D%98%20%EC%B0%B8%EA%B3%A0%20%EB%8F%99%EC%98%81%EC%83%81)  
->AAS 작성부터 클라우드 데이터 모니터링까지의 과정이 담긴 동영상입니다.  
+>AAS 작성부터 클라우드 데이터 모니터링까지의 과정이 담긴 동영상입니다.
   
